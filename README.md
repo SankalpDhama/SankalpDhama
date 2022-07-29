@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently building Flutter Apps with Web3<br>🌱 I’m currently learning more about BlockChain.<br>👯 I’m looking to collaborate on Github.<br>🤔 I’m looking for help with Truffle and Solidity.<br>💬 Ask me about Flutter or any tech-related stuff.<br>📫 How to reach me: Check social links below.<br>⚡ Fun fact: I spend almost 12 hours listening to songs every day.
+🔭 I’m currently building Flutter Apps with Web3<br>🌱 I’m currently learning more about BlockChain.<br>👯 I’m looking to collaborate on Github.<br>🤔 I’m looking for help with Truffle and Solidity.<br>💬 Ask me about Flutter or any tech-related stuff.<br>📫 How to reach me: Check social links below.<br>⚡ Fun fact: prolly listening to music even right now.
 
 
 ## 🌐 Socials:
