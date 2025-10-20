@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently building WebApps with Web3<br>🌱 I’m currently learning more about BlockChain.<br>👯 I’m looking to collaborate on Github.<br>💬 Ask me about NodeJs, MongoDb, ReactJs, ExpressJs, NextJs or any tech-related stuff.<br>📫 How to reach me: Check social links below.
+🔭 💬 Ask me about NodeJs, MongoDb, ReactJs, ExpressJs, NextJs or any tech-related stuff.<br>📫 How to reach me: Check social links below.
 
 
 ## 🌐 Socials:
